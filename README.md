@@ -122,7 +122,7 @@ Browse all **67** design skills. Click any thumbnail to open the live preview on
       <sub><code>npx typeui.sh pull clean</code></sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://typeui.sh/design-skills/codex"><img src="https://www.typeui.sh/registry-examples/open.png" alt="Codex" width="260" /></a><br />
+      <a href="https://typeui.sh/design-skills/codex"><img src="https://www.typeui.sh/registry-examples/codex.png" alt="Codex" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/codex"><b>Codex</b></a><br />
       <sub><code>npx typeui.sh pull codex</code></sub>
     </td>

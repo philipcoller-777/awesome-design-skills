@@ -1,5 +1,5 @@
 ---
-name: Simple
+name: Geometric
 colors:
   primary: "#3B82F6"
   secondary: "#8B5CF6"
@@ -32,11 +32,11 @@ spacing:
 
 ## Overview
 
-Straightforward, no-frills design with clean typography, neutral colors, and intuitive layouts that stay out of the way.
+Geometric, structured design with clean typography, neutral colors, precise shapes, and intuitive layouts that stay out of the way.
 
 ## Style Foundations
 
-- **Visual style:** minimal, clean
+- **Visual style:** geometric, structured, clean
 - **Typography scale:** 12/14/16/20/24/32
 - **Typography fonts:** primary=Inter, display=Inter, mono=JetBrains Mono
 - **Typography weights:** 100, 200, 300, 400, 500, 600, 700, 800, 900

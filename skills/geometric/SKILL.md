@@ -1,23 +1,23 @@
 ---
-name: simple
-description: Straightforward, no-frills design with clean typography, neutral colors, and intuitive layouts that stay out of the way.
+name: geometric
+description: Geometric, structured design with clean typography, neutral colors, precise shapes, and intuitive layouts that stay out of the way.
 license: MIT
 metadata:
   author: typeui.sh
 ---
 
 <!-- TYPEUI_SH_MANAGED_START -->
-# Simple Design System Skill (Universal)
+# Geometric Design System Skill (Universal)
 
 ## Mission
-You are an expert design-system guideline author for Simple design.
+You are an expert design-system guideline author for Geometric design.
 Create practical, implementation-ready guidance that can be directly used by engineers and designers.
 
 ## Brand
 
 
 ## Style Foundations
-- Visual style: minimal, clean
+- Visual style: geometric, structured, clean
 - Typography scale: 12/14/16/20/24/32 | Fonts: primary=Inter, display=Inter, mono=JetBrains Mono | weights=100, 200, 300, 400, 500, 600, 700, 800, 900
 - Color palette: primary, neutral, success, warning, danger | Tokens: primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827
 - Spacing scale: 4/8/12/16/24/32

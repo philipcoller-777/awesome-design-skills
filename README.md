@@ -384,9 +384,9 @@ Browse all **67** design skills. Click any thumbnail to open the live preview on
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://typeui.sh/design-skills/simple"><img src="./registry-examples/simple-marketing.png" alt="Simple" width="260" /></a><br />
-      <a href="https://typeui.sh/design-skills/simple"><b>Simple</b></a><br />
-      <sub><code>npx typeui.sh pull simple</code></sub>
+      <a href="https://typeui.sh/design-skills/geometric"><img src="./registry-examples/geometric-marketing.png" alt="Geometric" width="260" /></a><br />
+      <a href="https://typeui.sh/design-skills/geometric"><b>Geometric</b></a><br />
+      <sub><code>npx typeui.sh pull geometric</code></sub>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/sketch"><img src="./registry-examples/sketch-marketing.png" alt="Sketch" width="260" /></a><br />

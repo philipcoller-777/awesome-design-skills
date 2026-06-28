@@ -1,6 +1,6 @@
 # Awesome Design Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<img width="1200" height="630" alt="og-awesome-design-skills" src="https://github.com/user-attachments/assets/d392937a-a0a3-408d-b3f8-4d8920f836f9" />
+<img width="1200" height="630" alt="awesome-design-skills" src="https://github.com/user-attachments/assets/1691b85b-d920-46dd-af28-068c5f90f304" />
 
 <br>
 
